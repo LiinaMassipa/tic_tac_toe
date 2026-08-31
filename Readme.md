@@ -139,7 +139,7 @@ The application should then run locally in your browser.
 
 ---
 
-# 📚 Resources That Helped Me Learn
+# Resources That Helped Me Learn
 
 The main resource I used was the official React documentation and tutorial.
 
